@@ -1,7 +1,7 @@
 # Chess Game in JavaFX
 
 ## Overview
-This is a fully functional chess game built using JavaFX. The project implements all the core features required to play a standard game of chess. The user interface is intuitive and interactive, allowing players to move pieces according to the rules of chess.
+This is an almost fully functional chess game built using JavaFX. The project implements all the core features required to play a standard game of chess. The user interface is allowing players to move pieces according to the rules of chess.
 
 ## Features
 - Fully implemented chessboard with an 8x8 grid.
